@@ -1,0 +1,8 @@
+Test Case ID,Question,Category,Expected Behavior,Status
+TC01,"What is the minimum attendance requirement?","In-domain","Answer should be based on the provided documents",Pass
+TC02,"What are the academic regulations?","In-domain","Answer should be based on the provided documents",Pass
+TC03,"What information is provided about academic records?","In-domain","Answer should be based on the provided documents",Pass
+TC04,"What happens if a student does not meet the attendance requirement?","In-domain","Answer should be based on the provided documents",Pass
+TC05,"What is the population of Japan?","Out-of-domain","Chatbot should say the information is not available in the provided documents",Pass
+TC06,"What is the capital of France?","Out-of-domain","Chatbot should say the information is not available in the provided documents",Pass
+TC07,"What is the minimum attendance requirement?","Source verification","Relevant PDF source and page should be displayed",Pass
