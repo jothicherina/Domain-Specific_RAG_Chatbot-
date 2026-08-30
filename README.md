@@ -168,8 +168,6 @@ domain_rag_chatbot/
 
 ## 🛠️ Technologies Used
 
-### Technology Used
-
 * **Python** – Main programming language
 * **Streamlit** – Web application and chatbot interface
 * **FAISS** – Vector database for similarity-based document retrieval
