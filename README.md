@@ -261,10 +261,10 @@ The application will open in your web browser.
 
 ## 💡 Example Questions
 
-What is the minimum attendance requirement?
-What are the academic regulations?
-What information is provided about academic records?
-What happens if a student does not meet the attendance requirement?
+- What is the minimum attendance requirement?
+- What are the academic regulations?
+- What information is provided about academic records?
+- What happens if a student does not meet the attendance requirement?
 
 
 ## 🔎 Retrieved Text
